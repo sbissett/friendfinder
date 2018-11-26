@@ -33,7 +33,7 @@ var friends = [
     }, {
         "name":"Daffy Duck",
         "photo":"../../public/assets/images/Daffy-Duck.jpeg",
-        "scores":[vv
+        "scores":[
             "5",
             "2",
             "2",
