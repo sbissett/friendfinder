@@ -8,17 +8,13 @@ Each user myst provide name and photo & THEN answer all questions
 Their resulst will then be cmopared to others
 The app will then display the name and picture o fhte user with the best overall match
 
-![home page](https://github.com/sbissett/friend-finder/app/public/assets/images/FriendfinderHome.jpg)
+Git Hub Friend Finder: https://sbissett.github.io/friendfinder/
 
 
-Survey Page
-
-https://github.com/sbissett/friend-finder.git
+Git Hub Survey Page: https://github.com/sbissett/friend-finder.git
 
 
-Heroku
-
-https://peaceful-river-67821.herokuapp.com/
+Heroku Home Page https://peaceful-river-67821.herokuapp.com/
 
 
 
