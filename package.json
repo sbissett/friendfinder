@@ -5,15 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-
     "start": "node server.js"
   },
-
   "repository": {
     "type": "git",
     "Url": "git+https://github/com/sbissett/friendfinder.git"
   },
-
   "author": "",
   "license": "ISC",
   "dependencies": {
