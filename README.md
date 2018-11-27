@@ -1,4 +1,4 @@
-# friendfinder
+# Friendfinder
 Friend Finder App 
 
 Overview
@@ -8,8 +8,7 @@ Each user myst provide name and photo & THEN answer all questions
 Their resulst will then be cmopared to others
 The app will then display the name and picture o fhte user with the best overall match
 
-Home Page: 
-https://github.com/sbissett/friend-finder.git
+![home page](https://github.com/sbissett/friend-finder/app/public/assets/images/FriendfinderHome.jpg)
 
 
 Survey Page
@@ -20,7 +19,6 @@ https://github.com/sbissett/friend-finder.git
 Heroku
 
 https://peaceful-river-67821.herokuapp.com/
-
 
 
 
