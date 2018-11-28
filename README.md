@@ -8,11 +8,11 @@ Each user myst provide name and photo & THEN answer all questions
 Their resulst will then be cmopared to others
 The app will then display the name and picture o fhte user with the best overall match.
 
-Home Page for Friend Finder 
-![Home Page](https://github.com/sbissett/friendfinder/app/public/assets/images/FriendfinderHome.jpg)
 
-Friends 
-1[Friends](https:github.com/sbissett/friendfinder/app/public/assets/images/Friends.jpg)
+![Home Page](https://github.com/sbissett/friendfinder/app/public/assets/images/FriendfinderHome.JPG)
+
+
+![Friends](https://github.com/sbissett/friendfinder/app/public/assets/images/Friends.JPG)
 
 
 Links below
