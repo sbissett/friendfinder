@@ -9,11 +9,10 @@ Their resulst will then be cmopared to others
 The app will then display the name and picture o fhte user with the best overall match.
 
 
-![Home Page](https://github.com/sbissett/friendfinder/app/public/assets/images/FriendfinderHome.JPG)
+![Home Page](https://github.com/sbissett/friendfinder/blob/master/app/public/assets/images/FriendfinderHome.JPG)
 
 
-![Friends](https://github.com/sbissett/friendfinder/app/public/assets/images/Friends.JPG)
-
+![Friends](https://github.com/sbissett/friendfinder/blob/master/app/public/assets/images/Friends.JPG)
 
 Links below
 
