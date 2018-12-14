@@ -1,5 +1,4 @@
->
-  
+
   	// Chosen CSS
     var config = {
       '.chosen-select'           : {},
@@ -12,7 +11,8 @@
       $(selector).chosen(config[selector]);
     }
     // Capture the form inputs 
-    $("#submit").on("click", function(){
+    $("#submit").on("click", function(e){
+        console.log(e)
         event.preventDefault();
     	// Form validation
     	function validateForm() {
